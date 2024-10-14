@@ -1,0 +1,33 @@
+<Doctype html>
+    <head>
+        <body>
+            <title>LICTRONCRATES</title>
+            <meta charset="UTF-8">
+            <meta name="viewport"content="width=device-width,initial-scale=1">
+            <meta name="description"content="top branded headphones and earbuds at unbelievele price">
+            <meta name="keywords"content="earbuds, headphones, headset, best earphones, bluetooth headphones under 500,">
+            <h1 style="text-align: center;"> Lictron Crates</h1>
+            <h2 style="text-align: center;">beyound something</h2>
+            <img src="https://cdn.shopify.com/s/files/1/0057/8938/4802/products/airdopes-121-v2-black_1024x1024.png?v=1612851799" alt="Lictron Flippo Corn Headset">
+            <button type="button">order</button>
+            <style>
+                .button {
+                    background-color:blue;
+                    border: none;
+                    color: greenyellow;
+                    padding: 15px 32px;
+                    text-align: center;
+                    text-decoration: none;
+                    display: inline-block;
+                    margin: 4px 2px;
+                    cursor: pointer;
+                }
+                </style>
+
+                <p> Introducing the Lictron Flippo Corn Headset: the ultimate audio companion for both gamers and music lovers. With an impressive 48-hour battery life, you can enjoy extended listening sessions without interruption. Experience seamless connectivity with Bluetooth 5.2, ensuring low latency for crystal-clear sound and lag-free gameplay.<br>
+
+                    Designed for comfort, the Flippo Corn features a sleek, ergonomic design that makes it perfect for long hours of wear. Plus, with an IPX68 rating, it’s resistant to water and sweat, so you can take it anywhere without worry.<br>
+                    
+                    Whether you prefer wired or wireless, the headset has you covered, and the vibrant RGB lighting adds a touch of flair to your setup. With SD card support, you can easily access your favorite tracks on the go. Elevate your audio experience with the Lictron Flippo Corn—where style meets functionality!</p>
+        </body>
+    </head>
